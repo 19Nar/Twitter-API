@@ -1,8 +1,8 @@
 var Twit = require("twit");
-const access_token = "4678874198-5pblAoT8XksHprNq55rDxLI4LZx59BW2K1n5Kkm";
-const access_token_secret = "Baf2LklfkwJgpN4kPgSuwxQugXAFtddEaUExlSh3mZyn7";
-const API_key = "OV8PmRCsn3Co2KgHiH7G2utN4";
-const API_secret_key = "C3CWCaaGiOgkCCTm68GNi60foiIeSKUjYLzj1ac6yhJ1GZ6LUC";
+const access_token = "Your_Token";
+const access_token_secret = "You_Secret_Token";
+const API_key = "Your_Api_Key";
+const API_secret_key = "Your_Secret_API_Key";
 
 
 const t = new Twit({
