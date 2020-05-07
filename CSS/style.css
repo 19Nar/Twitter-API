@@ -1,0 +1,24 @@
+body {
+    background-color: white;
+}
+
+img {
+    height: 50%;
+    background-position: center;
+    background-size: contain;
+    width: 50%;
+}
+
+.btn {
+    background-color: lightskyblue;
+}
+
+#results {
+    background-color: transparent;
+    z-index: -1;
+}
+
+h4{
+    text-align: center;
+    color: lightskyblue;
+}
